@@ -1,6 +1,8 @@
 # UIBarButtonItem-ItemBadge
 Category of UIBarButtonItem class to add badge on it easily in Objective-C.
 
+![Alt Text](https://github.com/guidosette/UIBarButtonItem-ItemBadge/blob/master/example.gif)
+
 How to use:
 - import UIBarButtonItem+ItemBadge.h and UIBarButtonItem+ItemBadge.m
 - add #import "UIBarButtonItem+ItemBadge.h" in ViewController
