@@ -1,9 +1,9 @@
 //
 //  UIBarButtonItem+ItemBadge.h
-//  xtribe
+//  Fanfa
 //
 //  Created by Guido Fanfani on 21/09/17.
-//  Copyright © 2017 XTribe plc. All rights reserved.
+//  Copyright © 2017 Fanfa. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
