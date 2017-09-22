@@ -1,2 +1,2 @@
 # UIBarButtonItem-ItemBadge
-Category of UIBarButtonItem class to add badge on it easily.
+Category of UIBarButtonItem class to add badge on it easily in Objective-C.
